@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Projects Portfolio on Home</title>
+    <link>https://tarudata.github.io/Jonahportfolio/</link>
+    <description>Recent content in Data Projects Portfolio on Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://tarudata.github.io/Jonahportfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title> Cluster Analysis: Policies and demographics</title>
+      <link>https://tarudata.github.io/Jonahportfolio/post/project1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tarudata.github.io/Jonahportfolio/post/project1/</guid>
+      <description>The aim of this project was determine the attitudes of university students in response to the Government&amp;rsquo;s implementations of Covid-19 restrictions and rules.
+In this study we collected data from a survey that me and my peers had shared amongst the university&amp;rsquo;s 1000+ student body Utilizing tools such as R Studio and Excel and methods including factor and clustering analysis to define the various groups from our survey.
+The result of our analysis lead us to define 2 main groups &amp;lsquo;Health conscious&amp;rsquo; and &amp;ldquo;Risk takers&amp;rdquo;.</description>
+    </item>
+    
+    <item>
+      <title>Web Scraping: Getting a bargain</title>
+      <link>https://tarudata.github.io/Jonahportfolio/post/project2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tarudata.github.io/Jonahportfolio/post/project2/</guid>
+      <description>In this project the aim was to build a price tracker to create a spreadsheet which collects variations in price over time in order to both prices of an item a user wishes to purchase.
+In this example Python alongside the BeautifulSoup and Pandas packages were used in order to scrape the data from a selected webstore to then aggregate it into an Excel file.
+Link to Github</description>
+    </item>
+    
+  </channel>
+</rss>
